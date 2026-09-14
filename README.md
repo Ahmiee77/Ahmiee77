@@ -1,9 +1,11 @@
 <h1 align="center">Hey, I'm Ahmed Raza 👋</h1>
+
 <h3 align="center">Cybersecurity Student • Aspiring Penetration Tester</h3>
+
 <h4 align="center">Breaking things on purpose, so real attackers can't. 🔓</h4>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Learning+Web+App+Penetration+Testing+%F0%9F%92%BB;SQL+Injection+%7C+Privilege+Escalation+%F0%9F%94%93;Currently+on+TryHackMe+%F0%9F%94%A5;Documenting+Every+Hack+I+Learn+From+%F0%9F%93%9D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Learning+Web+App+Penetration+Testing+%F0%9F%92%BB;SQL+Injection;Privilege+Escalation"/>
 </p>
 
 <p align="center">
@@ -15,28 +17,29 @@
 
 ### 🕵️ About Me
 
-I'm a Cybersecurity student who got hooked the moment I realized a single unsanitized input field can take down an entire system. I don't just want to know that something is vulnerable — I want to know *why*, *how*, and *what actually stops it*.
+I'm a Cybersecurity student at University of Wah who got hooked the moment I realized a single unsanitized input field can take down an entire system. I don't just want to know that something is vulnerable — I want to understand why, how to exploit it in a controlled environment, and how to fix it.
 
-Right now I'm building my foundation through hands-on labs, documenting every box I crack, and slowly turning theory into real, repeatable skill.
+Right now I'm building my foundation through hands-on labs (TryHackMe), documenting my learning, and turning theory into repeatable skills.
 
 ---
 
 ### 🎯 Featured Work
 
 **🔓 Web App Pentest — "Recruit" (TryHackMe)**
-Performed a full black-box assessment on a recruitment portal: identified a critical SQL Injection in the candidate search feature, used sqlmap to extract the entire backend database, dumped administrator credentials, and escalated from zero access to full admin control.
+Performed a black-box assessment on a recruitment portal: identified an SQL Injection in the candidate search feature and investigated impact in a controlled lab environment.
+
 `SQL Injection` `sqlmap` `Privilege Escalation` `Enumeration`
-📄 *Full report & writeup → (link once uploaded)*
+
+📄 *Full report & writeup → coming soon (only sanitized, authorized labs will be published).* 
 
 ---
 
 ### 🚀 What I'm Up To Right Now
 
-- 🔎 Practicing Web App Penetration Testing on **TryHackMe**
-- 🗂️ Documenting every room I complete as a proper writeup
+- 🔎 Practicing Web App Penetration Testing on **TryHackMe** (Junior Penetration Tester Path)
+- 🗂️ Documenting each room as a sanitized writeup (not published until approved)
 - 📖 Deep-diving into **SQL Injection, Privilege Escalation & OWASP Top 10**
-- 🛠️ Building small security scripts to automate the boring recon parts
-- 🎓 Using my **GitHub Student Developer Pack** to build a home lab (DigitalOcean, JetBrains, Namecheap)
+- 🛠️ Building small security scripts to automate recon
 
 ---
 
@@ -59,7 +62,7 @@ Performed a full black-box assessment on a recruitment portal: identified a crit
 
 | 📁 Repo | 💬 What's Inside |
 |---|---|
-| 🧾 [CTF Writeups](#) | Step-by-step breakdowns of every box/room I've cracked |
+| 🧾 [CTF Writeups](#) | Step-by-step breakdowns of every box/room I've cracked (sanitized) |
 | ⚙️ [Security Scripts](#) | Python/Bash tools I built to make recon less painful |
 | 🌐 [Portfolio Website](#) | Everything about me, in one place |
 
@@ -69,10 +72,6 @@ Performed a full black-box assessment on a recruitment portal: identified a crit
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ahmiee77&show_icons=true&theme=radical&hide_border=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmiee77&theme=radical&hide_border=true" width="48%"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmiee77&layout=compact&theme=radical&hide_border=true" width="45%"/>
 </p>
 
@@ -81,8 +80,7 @@ Performed a full black-box assessment on a recruitment portal: identified a crit
 ### 📫 Let's Connect
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:cyberst7@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://tryhackme.com/p/ahmiee7"><img src="https://img.shields.io/badge/TryHackMe-ahmiee7-5a8f00?style=for-the-badge&logo=tryhackme"/></a>
 </p>
 
 <p align="center">
